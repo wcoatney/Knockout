@@ -1,8 +1,10 @@
-user_name,user_email,list_of_picks,status,buyins
-Jessica Coatney,jessep@fannect.me,,,
-Will Coatney,will@fannect.me,"['KU', 'TX']",,
-Hunter Browning,hunter@fannect.me,"['BUTT', 'Munch']",,
-Bob,x@fannect.me,,,
-Julie Coatney,jcoat@fannect.me,,,
-Adam Coatney,adam@fannect.me,,,
-Tom Coatney,tom@fannect.me
+Jessica Coatney,jessep@fannect.me,alive,empty,empty,empty,empty,empty,empty,"[[['empty', 'empty', 'empty', 'empty', 'empty', 'empty']]]"
+Will Coatney,will@fannect.me,alive,empty,empty,empty,empty,empty,empty,"[[['empty', 'empty', 'empty', 'empty', 'empty', 'empty']]]"
+Hunter Browning,hunter@fannect.me,alive,empty,empty,empty,empty,empty,empty,"[[['empty', 'empty', 'empty', 'empty', 'empty', 'empty']]]"
+Aaron Coatney,aaron@fannect.me,alive,empty,empty,empty,empty,empty,empty,"[[['empty', 'empty', 'empty', 'empty', 'empty', 'empty']]]"
+Julie Coatney,jcoat@fannect.me,dead,empty,empty,empty,empty,empty,empty,"[[['empty', 'empty', 'empty', 'empty', 'empty', 'empty']]]"
+Adam Coatney,adam@fannect.me,dead,empty,empty,empty,empty,empty,empty,"[[['empty', 'empty', 'empty', 'empty', 'empty', 'empty']]]"
+Tom Coatney,tom@fannect.me,dead,empty,empty,empty,empty,empty,empty,"[[['empty', 'empty', 'empty', 'empty', 'empty', 'empty']]]"
+Chris Anning,chris@fannect.me,dead,empty,empty,empty,empty,empty,empty,"[[['VCU', 'SF Austin', 'UCLA', 'Tulsa', 'empty', 'empty']]]"
+Brian Coatney,brian@fannect.me,dead,empty,empty,empty,empty,empty,empty,"[[['empty', 'empty', 'empty', 'empty', 'empty', 'empty']]]"
+Bill Simmons,bill@fannect.me,alive,Kansas,Iowa St.,empty,empty,empty,empty,"[[['VCU', 'SF Austin', 'UCLA', 'Tulsa', 'empty', 'empty']]]"
